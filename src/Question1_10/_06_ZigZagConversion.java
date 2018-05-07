@@ -1,6 +1,6 @@
 package Question1_10;
 
-public class _6_ZigZagConversion {
+public class _06_ZigZagConversion {
 	public String convert(String s, int numRows) {
         StringBuilder sb = new StringBuilder();
 		char c[] = s.toCharArray();

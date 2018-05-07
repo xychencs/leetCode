@@ -2,7 +2,7 @@ package Question1_10;
 
 import java.util.Scanner;
 
-public class _4_MidNum {
+public class _04_MidNum {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		while (sc.hasNext()) {

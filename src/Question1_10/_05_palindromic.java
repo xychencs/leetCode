@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //回文串  用的是马拉车算法manacher算法
 
-public class _5_palindromic {
+public class _05_palindromic {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		while (sc.hasNext()) {
