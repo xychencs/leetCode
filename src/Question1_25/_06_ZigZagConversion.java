@@ -1,4 +1,4 @@
-package Question1_10;
+package Question1_25;
 
 public class _06_ZigZagConversion {
 	public String convert(String s, int numRows) {
